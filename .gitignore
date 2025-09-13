@@ -1,0 +1,7 @@
+# Arquivos de dados gerados pela aplicação
+usuarios.json
+produtos.json
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
